@@ -1,0 +1,5 @@
+  PID TTY           TIME CMD
+62278 ttys003    0:00.11 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server login -fp vbobyr
+62280 ttys003    0:01.66 -zsh
+86669 ttys004    0:00.04 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server login -fp vbobyr
+86671 ttys004    0:00.87 -zsh
